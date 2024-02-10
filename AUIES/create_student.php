@@ -1,6 +1,6 @@
 <?php
 require_once('db_php/create_account.php');
-require_once('db_php/connection.php');
+require_once('db_php/connection.php'); 
 ?>
 <!DOCTYPE html>
 <html lang="en">
